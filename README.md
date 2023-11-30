@@ -1,16 +1,42 @@
-### Hi there 👋
+# Personal Information
 
-<!--
-**n0longerfear/n0longerfear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm [Marcos](https://github.com/n0longerfear), a passionate software developer.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 Email: marketeshp@gmail.com
+- 📱 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+
+## Experience
+
+### SalesForce Developer at Nubika
+
+### Education
+
+- 🎓 Univesidad Francisco de Vitoria
+## Featured Projects
+
+### [Project 1](link-to-your-project1)
+A brief and exciting description of your first project.
+
+### [Project 2](link-to-your-project2)
+A short description of another impressive project.
+
+## Skills
+
+- JavaScript
+- HTML
+- CSS
+- MongoDB
+- MySQL
+- Java 
+- Git
+- GitHub
+
+## GitHub Statistics
+
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+
+---
+
+Thanks for visiting my profile! I hope you find my work interesting.
